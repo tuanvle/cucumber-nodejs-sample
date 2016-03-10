@@ -7,7 +7,7 @@ module.exports = function() {
   });
 
   this.When(/^I add (\d+) and (\d+)$/, function(a, b, callback){
-    this.a.add(a, b);
+    this.add(a, b);
     callback();
   });
 
