@@ -1,6 +1,6 @@
 # cucumber-nodejs-sample
 
-# Install
+### Install
 `npm install -g cucumber` 
 
 
@@ -10,5 +10,5 @@
 `npm install`
 
 
-# Test
+### Test
 `npm test`
